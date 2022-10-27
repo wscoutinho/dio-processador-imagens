@@ -6,6 +6,7 @@ Projeto processador de imagens realizado no bootcamp Geração Tech Unimed-BH Ci
 
 O processamento da imagem do pacote e usado para:
 
+```bash
 Em processador:
 	- Correspondencia de histograma
 	- Semelhanca estrutural
@@ -17,6 +18,7 @@ Util:
 	- Plotar imagem
 	- Resultado da trama
 	- Plotar histograma
+```
 
 ## Instalação
 
