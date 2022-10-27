@@ -1,1 +1,1 @@
-processador-imagens-wsc
+processador_imagens_wsc

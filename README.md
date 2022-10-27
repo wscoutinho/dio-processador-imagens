@@ -25,6 +25,8 @@ Util:
 Utilize o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar processador-imagens-wsc
 
 ```bash
+pip install processador_imagens_wsc
+ou
 pip install processador-imagens-wsc
 ```
 
