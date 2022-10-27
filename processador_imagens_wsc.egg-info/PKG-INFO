@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: processador-imagens-wsc
+Version: 0.0.1
+Summary: Pacote de processamento de imagem com Skimage
+Home-page: https://github.com/wscoutinho/dio-processador-imagens
+Author: Willian Coutinho
+Author-email: williancoutinho@ymail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# PROCESSADOR DE IMAGENS VIRTUAIS WSC
+
+## DescriÃ§Ã£o
+
+Projeto processador de imagens realizado no bootcamp GeraÃ§Ã£o Tech Unimed-BH CiÃªncia de Dados na Digital Innovation One (DIO).
+
+O processamento da imagem do pacote e usado para:
+
+Em processador:
+	- Correspondencia de histograma
+	- Semelhanca estrutural
+	- Redimensionar imagem
+
+Util:
+	- Ler imagem
+	- Salvar imagem
+	- Plotar imagem
+	- Resultado da trama
+	- Plotar histograma
+
+## InstalaÃ§Ã£o
+
+Utilize o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar processador-imagens-wsc
+
+```bash
+pip install processador-imagens-wsc
+```
+
+## Autor
+Willian Coutinho
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
